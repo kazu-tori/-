@@ -1,0 +1,27 @@
+@charset "UTF-8";
+html{
+    font-size:  100%;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.7;
+}
+div{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+}
+.logo{
+    width: 210px;
+    margin-top: 14px;
+}
+.header1{
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper{
+    margin: 0 auto;
+    padding: 0 4%;
+
+}

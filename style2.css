@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.button {
+background: #0bd;
+color: #fff;
+margin: 10px;
+padding: 10px;
+}
+.box {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: 200px;
+gap: 10px;
+}
+.button:hover {
+    background: cornflowerblue;
+}
